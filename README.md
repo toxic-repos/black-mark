@@ -15,11 +15,13 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/Anti-Prop
 * https://github.com/antonbabenko
 * https://github.com/ApocalypseCalculator
+* https://github.com/archimatetool
 * https://github.com/arendst
 * https://github.com/Arriven
 * https://github.com/artshishkin
 * https://github.com/AssemblyScript
 * https://github.com/azjezz
+* https://github.com/burgua
 * https://github.com/ch33r10
 * https://github.com/ChngYrNick
 * https://github.com/Codeception
@@ -48,6 +50,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/filipe-freire
 * https://github.com/fomvasss
 * https://github.com/gianpaj
+* https://github.com/giuspen
 * https://github.com/GloryToUA
 * https://github.com/GM-DONATE
 * https://github.com/goddessmokosh
@@ -58,6 +61,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/ievgen11
 * https://github.com/ihucos
 * https://github.com/Intervention
+* https://github.com/jech
 * https://github.com/jgraph
 * https://github.com/k01ek
 * https://github.com/K1ngSoul
@@ -67,6 +71,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/koreader
 * https://github.com/kubernetes-sigs
 * https://github.com/laminas
+* https://github.com/laravel
 * https://github.com/limesquid
 * https://github.com/lippserd
 * https://github.com/litded
@@ -75,6 +80,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/louislam
 * https://github.com/Luzhnuy
 * https://github.com/MacPaw
+* https://github.com/MahApps
 * https://github.com/medikoo
 * https://github.com/metastck
 * https://github.com/mewtongames
