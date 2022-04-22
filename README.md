@@ -163,6 +163,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/w3schoolsrus
 * https://github.com/webdriverio
 * https://github.com/wix
+* https://github.com/wxWidgets
 * https://github.com/Yaffle
 * https://github.com/yarnpkg
 * https://github.com/yellowsummer1972
