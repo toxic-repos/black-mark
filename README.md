@@ -20,8 +20,10 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/arendst
 * https://github.com/Arriven
 * https://github.com/artshishkin
+* https://github.com/arx
 * https://github.com/AssemblyScript
 * https://github.com/azjezz
+* https://github.com/bareos
 * https://github.com/burgua
 * https://github.com/ch33r10
 * https://github.com/ChngYrNick
@@ -37,10 +39,14 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/daocentral
 * https://github.com/dbarnett
 * https://github.com/dbcli
+* https://github.com/DeaDBeeF-Player
 * https://github.com/deschler
 * https://github.com/dimboknv
+* https://github.com/dmtrKovalenko
 * https://github.com/dotnet-foundation
 * https://github.com/dry-rb
+* https://github.com/dscharrer
+* https://github.com/dvorka
 * https://github.com/dxh-team
 * https://github.com/emergenzeHack
 * https://github.com/emotion-js
@@ -48,14 +54,20 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/evermade
 * https://github.com/evolution-cms
 * https://github.com/facebook
+* https://github.com/files-community
 * https://github.com/filipe-freire
+* https://github.com/fluffy-mods
+* https://github.com/fmtlib
 * https://github.com/fomvasss
+* https://github.com/fork-maintainers
+* https://github.com/Friz-zy
 * https://github.com/gianpaj
 * https://github.com/giuspen
 * https://github.com/GloryToUA
 * https://github.com/GM-DONATE
 * https://github.com/goddessmokosh
 * https://github.com/hattifn4ttar
+* https://github.com/hautelook
 * https://github.com/hejny
 * https://github.com/helpmap
 * https://github.com/hperrin
@@ -97,6 +109,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/NewEXE
 * https://github.com/nicejade
 * https://github.com/nixsolutions
+* https://github.com/nunomaduro
 * https://github.com/o2sh
 * https://github.com/OB42
 * https://github.com/online-go
@@ -106,6 +119,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/panaceya
 * https://github.com/pauldb09
 * https://github.com/petrussola
+* https://github.com/photopea
 * https://github.com/phpbench
 * https://github.com/PHPMailer
 * https://github.com/piotrmaslanka
@@ -124,6 +138,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/samber
 * https://github.com/sanfarans
 * https://github.com/Sateviss
+* https://github.com/scalacenter
 * https://github.com/sebastianbergmann
 * https://github.com/security-code-scan
 * https://github.com/selenide
@@ -139,6 +154,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/spatie
 * https://github.com/spider-mane
 * https://github.com/stalniy
+* https://github.com/starship
 * https://github.com/stop-war-in-ukraine
 * https://github.com/stopwarstopputin
 * https://github.com/styled-components
@@ -175,4 +191,5 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/ypylypenko
 * https://github.com/yyyar
 * https://github.com/zadam
+* https://gitlab.com/zerofix1
 * https://github.com/zozulinskyi
