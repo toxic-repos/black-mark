@@ -25,6 +25,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/azjezz
 * https://github.com/bareos
 * https://github.com/burgua
+* https://github.com/Canardoux
 * https://github.com/ch33r10
 * https://github.com/ChngYrNick
 * https://github.com/Codeception
@@ -164,6 +165,7 @@ List of developers who are seen in the politicization of the OSS community
 * https://github.com/symless
 * https://github.com/tarampampam
 * https://github.com/terraform-aws-modules
+* https://github.com/thonny
 * https://github.com/T-Regx
 * https://github.com/tweedge
 * https://github.com/Tyrrrz
